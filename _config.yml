@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Juan Carlos Monsalve G
-email: your-email@example.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Ingeniería de Software | Desarrollo backend
+  Estudiante de Ingeniería de Software, con especial interés por el desarrollo backend con Python. Tecnologías: Python | Django | MySQL | MongoDB | GitHub
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jcmonsalveg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jcmonsalveg
+twitter_username: #
 github_username:  jcmonsalveg
 
 # Build settings
