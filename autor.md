@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Autor
-permalink: /autor/
+permalink: autor/
 ---
 
 ![Juan Carlos](/images/JuanC.jpg)

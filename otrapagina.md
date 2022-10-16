@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Otra
-permalink: /otra/
+permalink: otra/
 ---
 
