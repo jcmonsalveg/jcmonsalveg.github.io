@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mi primer proyecto en Django
-tags: Django, Python
+tags: ["Django", "Python"]
 ---
 
 

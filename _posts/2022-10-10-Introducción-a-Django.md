@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduccion a Django
-tags: Django, Python
+tags: ["Django", "Python"]
 ---
 
 Django es un Framework de Python para el desarrollo web. Permite la construcción de sitios web potentes, robustos y seguros. Según como se indica en el sitio web [Developer Mozilla](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Introduction) Django permite la construcción de Software: Completo, versátil, seguro, escalable, mantenible y portable (tomado de la web). Dejemos a un lado la teoría y vamos con la instalación.

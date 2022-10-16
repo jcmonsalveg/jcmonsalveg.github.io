@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Entornos virtuales en Python
-tags: python, "entornos virtuales"
+tags: ["python", "entornos virtuales"]
 ---
 
 Python es un lenguaje de programación de alto nivel, ampliamente empleado para el desarrollo web a través de frameworks como Django y Flask (este último conocido como microframework), además en ciencia de datos y machine learning. Python se caracteriza por la legibilidad de su código y rapidez en su curva de aprendizaje. Este lenguaje permite diferentes maneras de manejar entornos virtuales. 
