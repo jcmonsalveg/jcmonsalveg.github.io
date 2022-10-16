@@ -5,14 +5,14 @@ title: Mi primer proyecto en Django
 
 Una vez hemos instalado Django en nuestro computador, podemos empezar a utilizarlo. Para crear nuestro primer proyecto, primero vamos a crear una carpeta para este proyecto, puedes ubicarla donde desees, luego de crear la carpeta la abres con el Visual Studio Code, y posteriormente basta escribir en nuestra terminal: 
 
-~~~ 
-django-admin startproject holamundo
-~~~ 
+<p class="code">django-admin startproject holamundo</p>
+
+
 
 A mi, en lo personal, me resulta bastante práctico trabajar con el términal integrado de Visual Studio Code. Antes de continuar con el trabajo práctico, detengámonos por unos minutos en el patrón de arquitectura de Django:
 
 
-# PATRON DE ARQUITECTURA
+## Patrón de arquitectura
 
 Django utiliza el patrón de arquitectura **modelo MTV: Model Template View**, este parte del MVC o Model View Controller o Modelo Vista Controlador en español, veamos: El patrón de arquitectura Modelo Vista Controlador, funciona de la siguiente manera: cuando el usuario genera una petición al navegador, el sistema asocia las URL a un controlador, ese controlador se conecta con el Modelo (el cual es una abstracción de la base de datos, conectado a la BBDD a través de un ORM) y retorna la información que es presentada a través de la vista. En Django funciona de la siguiente manera: 
 
@@ -22,7 +22,7 @@ Django utiliza el patrón de arquitectura **modelo MTV: Model Template View**, e
 
 1) **View:** reciben las peticiones del usuario en el navegador, a través de las URL, procesa la información y la retorna a los templates. 
 
-# HOLA MUNDO EN DJANGO
+## Hola mundo en Django
 
 Continuemos, ya hemos creado nuestro primer proyecto, un proyecto en Django puede estar conformado por diferentes aplicaciones. Cada aplicación puede contener una funcionalidad completa dentro del proyecto, con sus propias vistas, urls, modelos, etc.  Al interior del proyecto es posible crear entonces aplicaciones, cada aplicación se gestiona como paquete y es un directorio dentro de nuestro proyecto. 
 
