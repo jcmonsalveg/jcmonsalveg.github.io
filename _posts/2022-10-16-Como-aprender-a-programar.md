@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cómo aprender a programar
+tags: Generalidades
 ---
 
 Un saludo muy especial para ti, te escribo en una mañana de domingo, después de disfrutar de un delicioso café... después de tantos años de escribir para la red aún no se pierde este deseo de compartir, de escribir, de dar luz para el camino a quienes, como yo, se encuentran aprendiendo a programar, vamos a empezar con una afirmación un tanto simple, pero marcada por una alta dosis de realidad:

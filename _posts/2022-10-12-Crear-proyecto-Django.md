@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Mi primer proyecto en Django
+tags: Django, Python
 ---
+
 
 Una vez hemos instalado Django en nuestro computador, podemos empezar a utilizarlo. Para crear nuestro primer proyecto, primero vamos a crear una carpeta para este proyecto, puedes ubicarla donde desees, luego de crear la carpeta la abres con el Visual Studio Code, y posteriormente basta escribir en nuestra terminal: 
 
