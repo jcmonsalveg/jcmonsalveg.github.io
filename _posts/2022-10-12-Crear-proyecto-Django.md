@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Mi primer proyecto en Django
-tags: ["Django", "Python"]
+tags: ["Django"]
 ---
 
 
 Una vez hemos instalado Django en nuestro computador, podemos empezar a utilizarlo. Para crear nuestro primer proyecto, primero vamos a crear una carpeta para este proyecto, puedes ubicarla donde desees, luego de crear la carpeta la abres con el Visual Studio Code, y posteriormente basta escribir en nuestra terminal: 
 
 <p class="code">django-admin startproject holamundo</p>
-
-
 
 A mi, en lo personal, me resulta bastante práctico trabajar con el términal integrado de Visual Studio Code. Antes de continuar con el trabajo práctico, detengámonos por unos minutos en el patrón de arquitectura de Django:
 
@@ -48,11 +46,13 @@ El archivo **manage . py** es el que permite el control general del proyecto, as
 
 **Urls:** permite configurar todas las rutas (URL) del proyecto, generalmente cada URL está asociada con una vista, además en el proyecto general se incluye la rula raíz para cada una de las aplicaciones del proyecto, por ejemplo si se tienen aplicaciones para gestionar información de docentes, estudiantes, etc, se definen así las rutas /docentes /estudiantes. Todas las URL del proyecto o de la aplicación, se incluyen dentro de un array [] llamado **urlpatterns** 
 
-**Wsgi: **estándar de Python que sirve para el posterior despliegue de la aplicación a servidor de producción. 
+**Wsgi:** estándar de Python que sirve para el posterior despliegue de la aplicación a servidor de producción. 
 
-**Para crear una aplicación dentro de un proyecto: **
+**Para crear una aplicación dentro de un proyecto:**
 
-![Aplicación](/images/crearAplicacion.png)
+<p class="code">
+python manage.py startapp una_app
+</p>
 
 El interior de la aplicación sería el siguiente:
 
@@ -74,14 +74,14 @@ El interior de la aplicación sería el siguiente:
 
  Para comprobar el proyecto se usa el servidor de pruebas así:
 
-~~~ 
+<p class ="code"> 
 python manage.py runserver
-~~~ 
+</p>
 
 Luego se abre en el navegador web así:
 
-~~~ 
+<p class ="code"> 
 localhost:8000
-~~~ 
+</p>
 
 Dejemos esta clase hasta este punto, en este momento ya debes ser capaz de crear el primer proyecto en Django, en próximas clases veremos paso a paso como empezar a personalizarlo...
