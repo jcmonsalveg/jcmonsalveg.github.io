@@ -76,7 +76,19 @@ permalink: proyectos/
   </div>
 
   
-<br>
+<div class="row">
+
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Novedades</h5>
+        <img src="/images/proyectos/novedades.png" class="card-img-top" alt="...">
+        <p class="card-text">Este sistema permite informar a los estudiantes de la IE sobre las novedades presentadas en el horario escolar. </p>
+      </div>
+    </div>
+  </div>
+
+  </div>
 
 </div>
     
