@@ -2,6 +2,7 @@
 layout: page
 title: Proyectos
 permalink: proyectos/
+order: 3
 ---
 
 <div class = "container-fluid">
