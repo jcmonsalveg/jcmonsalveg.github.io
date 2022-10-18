@@ -37,7 +37,7 @@ con frecuencia pues publico contenido cada semana. </p>
 {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
+    <span class="date">{{ post.date | date_to_long_string: "ordinal" }}</span>
   </p>
    
     <!-- Contenido de un post 
