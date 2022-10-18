@@ -23,3 +23,11 @@ span{
     margin-bottom: 10px;
     height: 450px;
 }
+
+.post-list-heading{
+    display: none;
+}
+
+.post-list{
+    display: none;
+}
