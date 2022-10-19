@@ -53,7 +53,7 @@ layout: home
 <!-- Pagination links -->
 <div class="pagination">
     
-    <center>
+   
     
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
@@ -69,16 +69,16 @@ layout: home
     <span class="next"> / Siguiente  </span>
   {% endif %}
         
-        </center>
+        
     
-    <center>
+    
     <p><br><br>
-        <span class="page_number ">
+        <span class="page_number">
     Página: {{ paginator.page }} de {{ paginator.total_pages }}
   </span>
     </p>
         
-    </center>
+    
     
 </div>
 
