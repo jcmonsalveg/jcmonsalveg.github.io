@@ -28,7 +28,7 @@ span{
     height: 450px;
 }
 
-.post-list-heading .rss-subscribe .post-list {
+.post-list-heading, .rss-subscribe, .post-list {
     display: none;
 }
 
