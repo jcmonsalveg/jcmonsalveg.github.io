@@ -39,13 +39,19 @@ display: block;
 
 .previous{
     word-spacing: 0.25em;
+    font-weight: bold;
+    text-align:center;
 }
 
 .next{
     word-spacing: 0.25em;
+    font-weight: bold;
+    text-align:center;
 }
 
 .page_number{
     word-spacing: 0.25em;
+    font-weight: bold;
+    text-align:center;
 }
  
