@@ -39,8 +39,15 @@ span{
 
 .icono-developer{
     margin: auto;
-display: block;
+    display: block;
+    margin-bottom: 10px;
 }
+
+.bienvenido-developer{
+    margin-bottom: 10px;
+}
+
+
 
 .previous{
     word-spacing: 0.25em;
