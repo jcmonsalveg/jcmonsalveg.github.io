@@ -20,7 +20,7 @@ li{
     list-style: none;
 }
 
-h1 {
+h1, a {
     color: #CF9368;
 }
 
