@@ -2,6 +2,10 @@
     margin-top: 20px;
 }
 
+.pagination{
+    text-align: center;
+}
+
 .title{
     background-color: rgb(156, 139, 194);
 }
