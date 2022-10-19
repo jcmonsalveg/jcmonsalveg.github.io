@@ -2,7 +2,7 @@
 layout: page
 title: Etiquetas
 permalink: etiquetas/
-order: 1
+order: 2
 ---
 
 {% for tag in site.tags %}
