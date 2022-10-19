@@ -27,7 +27,7 @@ url: "https://jcmonsalveg.github.io/" # the base hostname & protocol for your si
 twitter_username: #
 github_username:  jcmonsalveg
 
-paginate: 3
+paginate: 7
 paginate_path: "/blog/page:num/"
 
 
