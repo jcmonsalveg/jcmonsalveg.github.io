@@ -20,6 +20,10 @@ li{
     list-style: none;
 }
 
+h1 {
+    color: #CF9368;
+}
+
 .code{
     background-color: rgb(190, 186, 186);
 }
