@@ -8,12 +8,6 @@
     align-items: center;
 }
 
-span .previous, .a.next{
-    font-weight: bold;
-    text-align: center;
-    align-items: center;
-}
-
 .title{
     background-color: rgb(156, 139, 194);
 }
