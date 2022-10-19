@@ -4,6 +4,7 @@
 
 .pagination{
     text-align: center;
+    align-items: center;
 }
 
 .title{
@@ -45,12 +46,14 @@ display: block;
     word-spacing: 0.25em;
     font-weight: bold;
     text-align:center;
+    align-items: center;
 }
 
 .next{
     word-spacing: 0.25em;
     font-weight: bold;
     text-align:center;
+    align-items: center;
 }
 
 .page_number{
