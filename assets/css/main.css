@@ -4,6 +4,7 @@
 
 .pagination{
     font-weight: bold;
+    text-align: center;
 }
 
 .title{
@@ -39,26 +40,10 @@ span{
 .icono-developer{
     padding-bottom: 30px;
     
-
 }
 
 .bienvenido-developer{
     text-align: center;
     padding-bottom: 30px;
-
-}
-
-
-
-.previous{
-    text-align: center;
-}
-
-.next{
-    text-align: center;
-}
-
-.page_number{
-    text-align: center;
 }
  
