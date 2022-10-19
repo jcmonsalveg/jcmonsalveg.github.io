@@ -37,15 +37,15 @@ span{
 display: block;
 }
 
-span .previous{
-    padding: 5px 5px 5px 5px;
+.previous{
+    word-spacing: 0.25em;
 }
 
-span .next{
-    padding: 5px 5px 5px 5px;
+.next{
+    word-spacing: 0.25em;
 }
 
-page_number{
-    padding: 5px 5px 5px 5px;
+.page_number{
+    word-spacing: 0.25em;
 }
  
