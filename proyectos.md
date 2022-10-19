@@ -9,7 +9,7 @@ order: 3
 
 <div class="row">
 
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">MemoSoft</h5>
@@ -19,7 +19,7 @@ order: 3
     </div>
   </div>
 
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">SCGIP - Sistema de Coordinación - Gestión integral de procesos</h5>
@@ -29,11 +29,7 @@ order: 3
     </div>
   </div>
 
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Mercury - Sistema de Compras</h5>
@@ -43,20 +39,12 @@ order: 3
     </div>
   </div>
 
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title">Sistema Biblioteca</h5>
-        <img src="/images/proyectos/biblioteca.png" class="card-img-top" alt="...">
-        <p class="card-text">Permite la gestión de usuarios, libros y préstamos, permite visualizar listado de todos los libros prestados y registrar la devolución por parte del usuario. </p>
-      </div>
-    </div>
-  </div>
+
 </div>
 
   <div class="row">
 
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Hoja de vida</h5>
@@ -66,7 +54,7 @@ order: 3
     </div>
   </div>
 
-<div class="col-sm-6">
+<div class="col-sm-4">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Buscador certificados</h5>
@@ -76,10 +64,20 @@ order: 3
     </div>
   </div>
 
+  <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Sistema Biblioteca</h5>
+        <img src="/images/proyectos/biblioteca.png" class="card-img-top" alt="...">
+        <p class="card-text">Permite la gestión de usuarios, libros y préstamos, permite visualizar listado de todos los libros prestados y registrar la devolución por parte del usuario. </p>
+      </div>
+    </div>
+  </div>
+
   
 <div class="row">
 
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Novedades</h5>
