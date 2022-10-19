@@ -4,6 +4,8 @@
 
 .pagination, .previous, .next, .page_number{
     font-weight: bold;
+     display: flex;
+justify-content: center;
     text-align: center;
     align-items: center;
 }
