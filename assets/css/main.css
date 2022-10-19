@@ -2,10 +2,6 @@
     background-color: rgb(156, 139, 194);
 }
 
-.home {
-    display: flex;
-}
-
 .foto {
     border-radius: 10%;
 }
