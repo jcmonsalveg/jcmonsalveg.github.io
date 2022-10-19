@@ -3,8 +3,7 @@
 }
 
 .pagination{
-    text-align: center;
-    align-items: center;
+
 }
 
 .title{
@@ -38,35 +37,24 @@ span{
 }
 
 .icono-developer{
-    margin: auto;
-    display: block;
-    margin-bottom: 10px;
+
 }
 
 .bienvenido-developer{
-    margin-bottom: 30px;
-    text-align: center;
+
 }
 
 
 
 .previous{
-    word-spacing: 0.25em;
-    font-weight: bold;
-    text-align:center;
-    align-items: center;
+
 }
 
 .next{
-    word-spacing: 0.25em;
-    font-weight: bold;
-    text-align:center;
-    align-items: center;
+
 }
 
 .page_number{
-    word-spacing: 0.25em;
-    font-weight: bold;
-    text-align:center;
+
 }
  
