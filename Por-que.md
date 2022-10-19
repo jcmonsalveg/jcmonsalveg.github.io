@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ¿Por qué un blog sobre ingeniería de Software?
-permalink: porque/
+permalink: /porque/
 order: 1
 ---
 
