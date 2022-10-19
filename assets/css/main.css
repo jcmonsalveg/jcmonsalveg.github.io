@@ -8,7 +8,7 @@
     align-items: center;
 }
 
-span .previous, .next{
+span .previous, .a.next{
     font-weight: bold;
     text-align: center;
     align-items: center;
