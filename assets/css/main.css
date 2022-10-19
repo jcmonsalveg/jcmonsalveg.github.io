@@ -37,10 +37,13 @@ span{
 }
 
 .icono-developer{
+    padding bottom: 30px;
+    
 
 }
 
 .bienvenido-developer{
+    text-align: center;
 
 }
 
