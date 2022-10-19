@@ -2,7 +2,7 @@
     margin-top: 20px;
 }
 
-.pagination, .previous, .next{
+.pagination, .previous, .next, .page_number{
     font-weight: bold;
     text-align: center;
     align-items: center;
