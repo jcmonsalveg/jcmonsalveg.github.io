@@ -22,7 +22,7 @@ order: 4
   <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">SCGIP - Sistema de Coordinación - Gestión integral de procesos</h5>
+        <h5 class="card-title">SCGIP - Gestión integral de procesos</h5>
         <img src="/images/proyectos/scgip.png" class="card-img-top" alt="...">
         <p class="card-text">Esta aplicación se diseñó para sistematizar la información de la oficina de coordinación en una Institución Educativa. Información de acudientes, estudiantes, docentes (formación, permisos...), tareas pendientes, etc. El sistema está diseñado en Python (Flask) y conecta con una base de datos MySQL.</p>
       </div>
