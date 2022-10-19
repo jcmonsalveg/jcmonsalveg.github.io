@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Etiquetas
-permalink: etiquetas/
+permalink: /etiquetas/
 order: 2
 ---
 
