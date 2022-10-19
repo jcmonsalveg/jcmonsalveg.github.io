@@ -42,6 +42,12 @@ span{
     
 }
 
+. developer-ingenieria{
+    color: #3171AF;
+    font-weight: bold;
+}
+
+
 .bienvenido-developer{
     text-align: center;
     padding-bottom: 30px;
