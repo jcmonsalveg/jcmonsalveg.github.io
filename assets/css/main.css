@@ -41,6 +41,10 @@ span{
     background-color: #F6E7F3;
 }
 
+.card:hover{
+    background-color:#BD8359;
+}
+
 .post-list-heading, .rss-subscribe, .post-list {
     display: none;
 }
