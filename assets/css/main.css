@@ -38,6 +38,7 @@ span{
     margin-top:10px;
     margin-bottom: 10px;
     height: 450px;
+    background-color: #F6E7F3;
 }
 
 .post-list-heading, .rss-subscribe, .post-list {
