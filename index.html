@@ -58,16 +58,16 @@ layout: home
     
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previos /
+      Últimos post   ||
     </a>
   {% else %}
-    <span class="previous">  Previos / </span>
+    <span class="previous">  Últimos post </span>
   {% endif %}
   
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">/ Siguiente</a>
+    <a href="{{ paginator.next_page_path }}" class="next">/ Post anteriores </a>
   {% else %}
-    <span class="next"> / Siguiente  </span>
+    <span class="next"> Post anteriores  </span>
   {% endif %}
 
 </div>
