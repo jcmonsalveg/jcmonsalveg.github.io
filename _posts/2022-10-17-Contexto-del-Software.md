@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contexto del Software
-tags: ["Sobre programación"]
+tags: ["Calidad del software"]
 ---
 
 Al hablar de software muchas veces se piensa en programación: líneas y líneas de código que ejecutan funciones, clases... componentes de software que dan respuesta a los requerimientos de los usuarios. Pero el proceso de software va mucho más allá del código, hay una gran cantidad de tareas que hacen parte de este mundo, **software es mucho más que programación.**
