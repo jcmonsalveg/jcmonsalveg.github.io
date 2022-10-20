@@ -57,7 +57,7 @@ layout: home
    
     
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
+    <a href="{{ paginator.previous_page_path }}" class="page-item">
       Últimos post   ||
     </a>
   {% else %}
@@ -65,7 +65,7 @@ layout: home
   {% endif %}
   
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next"> Post anteriores </a>
+    <a href="{{ paginator.next_page_path }}" class="page-item"> Post anteriores </a>
   {% else %}
     <span class="next"> Post anteriores  </span>
   {% endif %}
