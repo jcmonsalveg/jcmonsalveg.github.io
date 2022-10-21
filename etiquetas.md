@@ -13,3 +13,5 @@ order: 2
     {% endfor %}
   </ul>
 {% endfor %}
+ -----
+ {{ site.tags.TAG }}

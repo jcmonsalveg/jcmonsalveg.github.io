@@ -65,4 +65,6 @@ span{
     padding-bottom: 30px;
 }
  
-
+.post-date{
+    color: gray;
+}
