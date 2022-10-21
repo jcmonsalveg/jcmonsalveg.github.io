@@ -19,13 +19,14 @@
 
         <div class="row">
 
-            <div class = "col-4">
+            <div class = "col-3">
                 {% include bienvenido.html %}
             </div>
 
             <div class = "col-sm">
 
-                {{ post.title }}
+                {{ page.title }}
+                {{ page.date }}
                 {{ content }}
             </div>
 
