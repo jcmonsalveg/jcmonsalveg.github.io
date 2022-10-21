@@ -14,4 +14,4 @@ order: 2
   </ul>
 {% endfor %}
  -----
- {{ site.tags.TAG }}
+ {{ site.tags }}
