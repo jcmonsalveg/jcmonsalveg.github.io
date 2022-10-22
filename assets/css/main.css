@@ -68,3 +68,15 @@ span{
 .post-date{
     color: #CF9368;
 }
+
+
+@media screen and (max-width: 540px) {
+    .col-3{
+        width: 100%;
+    }
+
+    .icono-developer{
+        width: 30%;
+        height: 30%;
+    }
+}
