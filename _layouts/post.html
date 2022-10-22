@@ -29,6 +29,14 @@
                 <span class ="post-date">{{ page.date  | date: "%-d %B %Y" }}</span>
                 <hr/>
                 {{ content }}
+
+
+                {% if page.tags %}
+                    <small>tags: <em> {{ page.tags | join: "<em> - </em>"  }}</em></small>
+                {% endif %}
+                
+
+
             </div>
 
         </div>
