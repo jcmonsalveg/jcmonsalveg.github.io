@@ -23,7 +23,8 @@ Por temas de confidencialidad no se publican datos personales ni nombres reales 
 - Un ingeniero de software Colombiano que reside en Alemania, donde trabaja como Ingeniero de Software.
 - Tres ingenieros de Software trabajan desde la ciudad de Medellín para tres empresas distintas.
 
-- **Además se consultaron ofertas laborales publicadas en diferentes sitios web:**
+
+**Además se consultaron ofertas laborales publicadas en diferentes sitios web:**
 -- https://www.jobbank.gc.ca/home
 -- https://ticjob.co/
 -- https://recruitee.com/

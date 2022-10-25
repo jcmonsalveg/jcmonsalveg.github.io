@@ -1,8 +1,12 @@
-
+---
+layout: post
+title: Design Thinking y diseño de Software
+tags: ["Generales"]
+---
 
 Bueno, continuamos abordando diferentes conceptos relacionados con la Ingeniería de Software, en esta ocasión le tocó el turno al Design Thinking aplicado al campo del diseño de software. Si se realiza una traducción literal de esta expresión tendríamos algo más o menos como: pensamiento de diseño, pero... ¿qué es realmente el design thinking?. Hay quienes lo definen como método, otros como metodología, algunos más como proceso, cuyo principal objetivo es el conocimiento del usuario, comprender sus gustos, deseos, necesidades, si bien el producto que se requiere diseñar es importante, el centro de este proceso es la persona. El design Thinking provee una serie de pasos, como se puede observar en el mapa conceptual: la empatía, definir de manera clara un problema viable y significtivo, generar ideas, diseñar posibles soluciones, esta fase se puede llevar a través de múltiples métodos y por último evaluar.
 
-¿Cómo se relaciona el Design Thinking con el diseño de Software?
+## ¿Cómo se relaciona el Design Thinking con el diseño de Software?
 
 El design thinking no es una herramienta, método o estrategia propio del campo de la ingeniería, pero si que tiene un amplio nivel de aplicación sobre todo en lo que tiene que ver con las fases iniciales del ciclo de vida del software, dependiendo, además de la metodología de desarrollo de software seleccionada. Quizá las fases donde pueda llevar a tener un nivel más amplio de implementación es en la fase de requerimientos o requisitos y en la fase de diseño de software.
 
@@ -18,7 +22,6 @@ Al igual que en la fase de requerimientos, en la fase de diseño debe continuar
 
 
 ![Mapa conceptual](/images/Design-Thinking.jpg)
-
 
 
 Referencias:

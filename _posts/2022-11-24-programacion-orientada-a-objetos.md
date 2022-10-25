@@ -1,3 +1,9 @@
+---
+layout: post
+title: Programación Orientada a Objetos
+tags: ["Paradigmas para el desarrollo de software"]
+---
+
 La Programación Orientada a Objetos, conocida como POO, es un paradigma, es decir, una forma de programar que tiene ya una larga historia. Al contrario de lo que muchos podrían pensar, esta viene aproximadamente de los años 60, es decir que puede tener ya unos 60 años de historia, al parecer surge en el año 1967, en Noruega, con un lenguaje de programación llamado Simula 67. Dicho lenguaje de programación usaba ya conceptos como clases y subclases.
 
 La programación orientada a objetos se presenta, entonces, según Shvets (2019) "basado en el concepto de envolver bloques de información y su comportamiento relacionad, en lotes especiales llamados objetos, que se construyen a partir de un grupo de "planos" definidos por un programador, que se denominan clases" (p. 8)

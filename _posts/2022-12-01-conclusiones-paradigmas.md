@@ -1,3 +1,9 @@
+---
+layout: post
+title: Conclusiones sobre paradigmas
+tags: ["Paradigmas para el desarrollo de software"]
+---
+
 El tema de la ingeniería de software es bastante dinámico, basta con comentar que hasta hace poco tiempo era inexistente como carrera de formación profesional y eran los ingenieros de sistemas quienes se dedicaban al estudio de este campo, pero con el paso del tiempo ha ido creciendo tanto que se ha ganado su lugar en la academia y en la industria.
 
 Los paradigmas de programación han ido surgiendo en función de como han ido evolucionando las necesidades en el campo del software: la aparición de nuevas tecnologías, de nuevos campos de aplicación y de nuevas formas de análisis y enfrentamiento de los problemas han posibilitado el nacimiento de los paradigmas que tenemos hoy.
